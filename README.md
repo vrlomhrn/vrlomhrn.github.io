@@ -1,4 +1,7 @@
-<h1 align="center">Hi there!👋, I'm Virlo Mahrian</h1>
-<h3 align="center">This is my porfolio</h3>
+# Personal Card
 
-<h3 align="left">My web is on https://vrlomhrn.github.io</h3>
+Personal card for info and describe summary.
+
+## Tech Stack
+
+**client:** HTML, TailwindCSS
